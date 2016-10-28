@@ -1,0 +1,15 @@
+{
+  "name": "d3-spread-pick",
+  "version": "1.0.0",
+  "description": "",
+  "main": "d3.v3.min.js",
+  "dependencies": {
+    "gulp-connect": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
